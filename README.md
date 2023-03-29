@@ -9,7 +9,7 @@ A simple website to preview and navigate through multiple landscape images.
 
 **Tech used:** HTML, CSS And JavaScript
 
-This website may look simple, however it was built for a specific reason. This project was built to understand basic concepts in FlexBox and Grid. Using these layouts I wanted to push the server requests with all the high resolution images and see how it would directly affect performance.
+This website may look simple, however it was built for a specific reason. This project was built to understand the basic concepts of FlexBox and Grid. Using these layouts I wanted to push the server requests with all the high resolution images and observe how it would directly affect performance.
 
 
 ## Growth:
